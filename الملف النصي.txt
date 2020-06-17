@@ -1,0 +1,3 @@
+char y = 'g';
+int d = 12 ;
+double t = 10.3 ;
